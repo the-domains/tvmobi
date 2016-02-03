@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Mobility in Motion
+title: Mobilia
 cta:
   domain: null
   bucket: null
